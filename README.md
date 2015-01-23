@@ -11,6 +11,8 @@ cp -R ru2.bundle ~/Library/"Keyboard Layouts"
 
 Add new layout in Keyboard settings
 
+[Download Zip](https://github.com/sevikkk/ru-ua-keyboard/archive/master.zip)
+
 ## Screenshots:
 
 ### Status Bar
